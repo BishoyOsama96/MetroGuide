@@ -1,0 +1,448 @@
+{
+  "stations": [
+    {
+      "station_name": "Helwan",
+      "lat": 29.8498844,
+      "long": 31.3340772,
+      "id": 0
+    },
+    {
+      "station_name": "Ain Helwan",
+      "lat": 29.8626458,
+      "long": 31.3249899,
+      "id": 1
+    },
+    {
+      "station_name": "Helwan University",
+      "lat": 29.8690126,
+      "long": 31.3203559,
+      "id": 2
+    },
+    {
+      "station_name": "Wadi Hof",
+      "lat": 29.8794305,
+      "long": 31.3133885,
+      "id": 3
+    },
+    {
+      "station_name": "Hadayek Helwan",
+      "lat": 29.8971768,
+      "long": 31.3040386,
+      "id": 4
+    },
+    {
+      "station_name": "Al-Maasara",
+      "lat": 29.9060831,
+      "long": 31.2996691,
+      "id": 5
+    },
+    {
+      "station_name": "Tora El-Asmant",
+      "lat": 29.9375177,
+      "long": 31.2801844,
+      "id": 6
+    },
+    {
+      "station_name": "Kozzika",
+      "lat": 29.9361426,
+      "long": 31.2816895,
+      "id": 7
+    },
+    {
+      "station_name": "Tora El-Balad",
+      "lat": 29.946793,
+      "long": 31.272976,
+      "id": 8
+    },
+    {
+      "station_name": "Sakanat El-Maadi",
+      "lat": 29.953335,
+      "long": 31.262972,
+      "id": 9
+    },
+    {
+      "station_name": "Maadi",
+      "lat": 29.959836,
+      "long": 31.2580577,
+      "id": 10
+    },
+    {
+      "station_name": "Hadayek El-Maadi",
+      "lat": 29.9700863,
+      "long": 31.2506475,
+      "id": 11
+    },
+    {
+      "station_name": "Dar El-Salam",
+      "lat": 29.9799761,
+      "long": 31.245909,
+      "id": 12
+    },
+    {
+      "station_name": "El-Zahraa",
+      "lat": 29.9951644,
+      "long": 31.2361329,
+      "id": 13
+    },
+    {
+      "station_name": "Mar Girgis",
+      "lat": 30.0058512,
+      "long": 31.2294978,
+      "id": 14
+    },
+    {
+      "station_name": "El-Malek El-Saleh",
+      "lat": 30.0168845,
+      "long": 31.2309278,
+      "id": 15
+    },
+    {
+      "station_name": "Al-Sayeda Zeinab",
+      "lat": 30.0292919,
+      "long": 31.2353264,
+      "id": 16
+    },
+    {
+      "station_name": "Saad Zaghloul",
+      "lat": 30.0365735,
+      "long": 31.2380539,
+      "id": 17
+    },
+    {
+      "station_name": "Sadat",
+      "lat": 30.0443659,
+      "long": 31.2355692,
+      "id": 18
+    },
+    {
+      "station_name": "Nasser",
+      "lat": 30.0535647,
+      "long": 31.2387916,
+      "id": 20
+    },
+    {
+      "station_name": "Orabi",
+      "lat": 30.0573777,
+      "long": 31.242693,
+      "id": 21
+    },
+    {
+      "station_name": "Al-Shohadaa",
+      "lat": 30.061072,
+      "long": 31.246049,
+      "id": 22
+    },
+    {
+      "station_name": "Ghamra",
+      "lat": 30.0689798,
+      "long": 31.2646654,
+      "id": 23
+    },
+    {
+      "station_name": "El-Demerdash",
+      "lat": 30.0772709,
+      "long": 31.2778066,
+      "id": 24
+    },
+    {
+      "station_name": "Manshiet El-Sadr",
+      "lat": 30.0822214,
+      "long": 31.2878246,
+      "id": 25
+    },
+    {
+      "station_name": "Kobri El-Qobba",
+      "lat": 30.0869874,
+      "long": 31.2938021,
+      "id": 26
+    },
+    {
+      "station_name": "Hammamat ElQobba",
+      "lat": 30.091254,
+      "long": 31.29891,
+      "id": 27
+    },
+    {
+      "station_name": "Saray El-Qobba",
+      "lat": 30.0980768,
+      "long": 31.3047335,
+      "id": 28
+    },
+    {
+      "station_name": "Hadayeq El-Zaitoun",
+      "lat": 30.105928,
+      "long": 31.310441,
+      "id": 29
+    },
+    {
+      "station_name": "Helmeyet El-Zaitoun",
+      "lat": 30.11327,
+      "long": 31.313945,
+      "id": 30
+    },
+    {
+      "station_name": "El-Matareyya",
+      "lat": 30.1213931,
+      "long": 31.3139257,
+      "id": 31
+    },
+    {
+      "station_name": "Ain Shams",
+      "lat": 30.1310506,
+      "long": 31.3190319,
+      "id": 32
+    },
+    {
+      "station_name": "Ezbet El-Nakhl",
+      "lat": 30.1392981,
+      "long": 31.3244798,
+      "id": 33
+    },
+    {
+      "station_name": "El-Marg",
+      "lat": 30.1520884,
+      "long": 31.3357319,
+      "id": 34
+    },
+    {
+      "station_name": "New El-Marg",
+      "lat": 30.1635686,
+      "long": 31.3382243,
+      "id": 35
+    },
+    {
+      "station_name": "El-Mounib",
+      "lat": 29.9811114,
+      "long": 31.2119042,
+      "id": 36
+    },
+    {
+      "station_name": "Sakiat Mekki",
+      "lat": 29.9954733,
+      "long": 31.2086157,
+      "id": 37
+    },
+    {
+      "station_name": "Omm El-Masryeen",
+      "lat": 30.0052026,
+      "long": 31.2080094,
+      "id": 38
+    },
+    {
+      "station_name": "Giza",
+      "lat": 30.0106103,
+      "long": 31.2070853,
+      "id": 39
+    },
+    {
+      "station_name": "Faisal",
+      "lat": 30.0172901,
+      "long": 31.2040068,
+      "id": 40
+    },
+    {
+      "station_name": "Cairo University",
+      "lat": 30.0259912,
+      "long": 31.2011889,
+      "id": 41
+    },
+    {
+      "station_name": "El Bohoth",
+      "lat": 30.0357781,
+      "long": 31.2002648,
+      "id": 42
+    },
+    {
+      "station_name": "Dokki",
+      "lat": 30.0382381,
+      "long": 31.2120051,
+      "id": 43
+    },
+    {
+      "station_name": "Opera",
+      "lat": 30.0420584,
+      "long": 31.2251724,
+      "id": 44
+    },
+    {
+      "station_name": "Mohamed Naguib",
+      "lat": 30.0454099,
+      "long": 31.2442548,
+      "id": 45
+    },
+    {
+      "station_name": "Attaba",
+      "lat": 30.0524127,
+      "long": 31.2468437,
+      "id": 46
+    },
+    {
+      "station_name": "Masarra",
+      "lat": 30.0710478,
+      "long": 31.2450291,
+      "id": 47
+    },
+    {
+      "station_name": "Rod El-Farag",
+      "lat": 30.0805703,
+      "long": 31.2454264,
+      "id": 48
+    },
+    {
+      "station_name": "St.Teresa",
+      "lat": 30.0883465,
+      "long": 31.2454466,
+      "id": 49
+    },
+    {
+      "station_name": "Khalafawy",
+      "lat": 30.0979751,
+      "long": 31.2453933,
+      "id": 50
+    },
+    {
+      "station_name": "Mezallat",
+      "lat": 30.104074,
+      "long": 31.245585,
+      "id": 51
+    },
+    {
+      "station_name": "Kolleyyet El-Zeraa",
+      "lat": 30.1137814,
+      "long": 31.2486628,
+      "id": 52
+    },
+    {
+      "station_name": "Shubra El-Kheima",
+      "lat": 30.122491,
+      "long": 31.244542,
+      "id": 53
+    },
+    {
+      "station_name": "Bab El-Shaaria",
+      "lat": 30.053944,
+      "long": 31.255951,
+      "id": 54
+    },
+    {
+      "station_name": "Al-Ahram",
+      "lat": 30.0912955,
+      "long": 31.326575,
+      "id": 55
+    },
+    {
+      "station_name": "Koleyet El-Banat",
+      "lat": 30.0836641,
+      "long": 31.3288288,
+      "id": 56
+    },
+    {
+      "station_name": "Stadium",
+      "lat": 30.073433,
+      "long": 31.318099,
+      "id": 57
+    },
+    {
+      "station_name": "Fair Zone",
+      "lat": 30.0733161,
+      "long": 31.3011546,
+      "id": 58
+    },
+    {
+      "station_name": "Abbassiya",
+      "lat": 30.072142,
+      "long": 31.283634,
+      "id": 59
+    },
+    {
+      "station_name": "Abdou Pasha",
+      "lat": 30.064824,
+      "long": 31.274776,
+      "id": 60
+    },
+    {
+      "station_name": "El-Geish",
+      "lat": 30.061885,
+      "long": 31.266847,
+      "id": 61
+    },
+    {
+      "station_name": "Maspero",
+      "lat": 30.0556125,
+      "long": 31.2342775,
+      "id": 62
+    },
+    {
+      "station_name": "Zamalek",
+      "lat": 30.0625128,
+      "long": 31.2227521,
+      "id": 63
+    },
+    {
+      "station_name": "Kit Kat",
+      "lat": 30.0664767,
+      "long": 31.2135565,
+      "id": 64
+    },
+    {
+      "station_name": "Haroun",
+      "lat": 30.0929828,
+      "long": 31.3278935,
+      "id": 65
+    },
+    {
+      "station_name": "Heliopolis Square",
+      "lat": 30.1078775,
+      "long": 31.338145,
+      "id": 66
+    },
+    {
+      "station_name": "Alf Maskan",
+      "lat": 30.118102,
+      "long": 31.3415801,
+      "id": 67
+    },
+    {
+      "station_name": "Nadi El-Shams",
+      "lat": 30.1256393,
+      "long": 31.3517308,
+      "id": 68
+    },
+    {
+      "station_name": "El-Nozha",
+      "lat": 30.1279516,
+      "long": 31.3628787,
+      "id": 69
+    },
+    {
+      "station_name": "Hesham Barakat",
+      "lat": 30.1310312,
+      "long": 31.3754252,
+      "id": 70
+    },
+    {
+      "station_name": "Qobaa",
+      "lat": 30.1319753,
+      "long": 31.3802049,
+      "id": 71
+    },
+    {
+      "station_name": "Omar Ibn El-Khattab",
+      "lat": 30.1381179,
+      "long": 31.3912341,
+      "id": 72
+    },
+    {
+      "station_name": "El Haykestep",
+      "lat": 30.1411797,
+      "long": 31.4008471,
+      "id": 73
+    },
+    {
+      "station_name": "Adly Mansour",
+      "lat": 30.1449958,
+      "long": 31.4181004,
+      "id": 74
+    }
+  ]
+}

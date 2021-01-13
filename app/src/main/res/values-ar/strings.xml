@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">دليل المترو</string>
+    <string name="Hello_World">اهلا بالعالم!</string>
+    <string name="nearest_station">اقرب محطة</string>
+    <string name="current_station">التوجه لمحطة البدء</string>
+    <string name="menu_item_info">نبهنى عند الوصول</string>
+    <string name="show">عرض</string>
+
+</resources>

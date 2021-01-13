@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MetroGuide</string>
+    <string name="Hello_World">Hello World!</string>
+    <string name="nearest_station">Nearest Station </string>
+    <string name="current_station">"Direction to Start Station "</string>
+    <string name="menu_item_info">Notify me when arrive</string>
+
+    <string name="show">Show</string>
+</resources>
